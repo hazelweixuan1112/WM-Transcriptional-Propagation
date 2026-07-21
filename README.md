@@ -1,6 +1,6 @@
 # WM-Transcriptional-Propagation
 
-This repository contains analysis code for the manuscript **Molecular Architecture of Signal Propagation in Human Working Memory Networks**.
+This repository contains analysis code for the manuscript **Correlated Gene Expression Supports Signal Propagation in Human Working Memory Networks**.
 
 The analyses link working-memory (WM) activation, regional gene expression, intracranial stimulation-evoked response probability, receptor and macroscale brain maps, cell-type annotations, and developmental expression data to examine the molecular organization of signal propagation among WM-related brain regions.
 
@@ -125,7 +125,7 @@ The workflow generates intermediate and final outputs including:
 
 If using this code, please cite the associated manuscript:
 
-**Molecular Architecture of Signal Propagation in Human Working Memory Networks**.
+**Correlated Gene Expression Supports Signal Propagation in Human Working Memory Networks**.
 
 ## License
 
